@@ -1,0 +1,14 @@
+
+body {
+    background-color: lightgrey;
+}
+
+img {
+    max-width: 340px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
